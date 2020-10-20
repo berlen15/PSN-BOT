@@ -1,0 +1,19 @@
+{
+  "name": "proyectows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webScraping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0"
+  }
+}
